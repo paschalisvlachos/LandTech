@@ -1,6 +1,7 @@
 <!-- How to run the codebase -->
 
-Initially run `npm install` to install the node_modules
+Initially run `npm install` to install the node_modules.
+
 To run the tasks, run the below
 
 First Task:
